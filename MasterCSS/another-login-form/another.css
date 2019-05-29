@@ -15,6 +15,7 @@ form {
 	background-color: #16ce7c;
 	padding: 3rem 3rem;
 	border-radius: 1rem;
+	opacity: 0.9;
 }
 
 form img {
@@ -61,14 +62,6 @@ form button {
 	cursor: pointer;
 	margin: 2rem 0 1rem 0;
 }
-
-
-
-
-
-
-
-
 
 
 
